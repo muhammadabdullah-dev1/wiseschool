@@ -1,0 +1,6 @@
+{
+  "name": "Wise Up International High School",
+  "description": "Official portal for Wise Up International High School (وائزاپ انٹرنیشنل ہائی اسکول), Model Town, Quetta. Academic excellence, bilingual curriculum, and admissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
